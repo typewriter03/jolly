@@ -1,0 +1,786 @@
+{
+"107": {
+"ipc_code": "107",
+"ipc_title": "Abetment of a thing",
+"ipc_description": "A person abets the doing of a thing, who— First—Instigates any person to do that thing, or Secondly—Engages with one or more other person or persons in any conspiracy for the doing of that thing, if an act or illegal omission takes place in pursuance of that conspiracy, and in order to the doing of that thing; or Thirdly—Intentionally aids, by any act or illegal omission, the doing of that thing.",
+"bns_code": "BNS 45",
+"bns_title": "Abetment of a thing",
+"bns_description": "A person abets the doing of a thing who—(a) instigates any person to do that thing; or (b) engages with one or more other persons in any conspiracy for the doing of that thing, if an act or illegal omission takes place in pursuance of that conspiracy, and in order to the doing of that thing; or (c) intentionally aids, by any act or illegal omission, the doing of that thing."
+},
+"109": {
+"ipc_code": "109",
+"ipc_title": "Punishment of abetment if the act abetted is committed in consequence and where no express provision is made for its punishment",
+"ipc_description": "Whoever abets any offence, shall, if the act abetted is committed in consequence of the abetment, and no express provision is made by this Code for the punishment of such abetment, be punished with the punishment provided for the offence.",
+"bns_code": "BNS 49",
+"bns_title": "Punishment of abetment if act abetted is committed in consequence and where no express provision is made for its punishment",
+"bns_description": "Whoever abets any offence shall, if the act abetted is committed in consequence of the abetment, and no express provision is made by this Sanhita for the punishment of such abetment, be punished with the punishment provided for the offence."
+},
+"114": {
+"ipc_code": "114",
+"ipc_title": "Abettor present when offence is committed",
+"ipc_description": "Whenever any person, who if absent would be liable to be punished as an abettor of the commission of an offence, shall be present when the same is committed any may facilitate the commission thereof, without himself committing it, is liable to the punishment of such abettor.",
+"bns_code": "BNS 54",
+"bns_title": "Abettor present when offence is committed",
+"bns_description": "Whenever any person, who is absent would be liable to be punished as an abettor, is present when the act or offence for which he would be punishable in consequence of the abetment is committed, he shall be deemed to have committed such act or offence."
+},
+"120": {
+"ipc_code": "120",
+"ipc_title": "Concealing design to commit offence punishable with imprisonment",
+"ipc_description": "Whoever, intending to facilitate or knowing it to be likely that he will thereby facilitate the commission of an offence punishable with imprisonment, voluntarily conceals, by any act or illegal omission, the existence of a design to commit such offence or makes any representation which he knows to be false respecting such design, shall, if offence be committed, be punished with imprisonment of the description provided for the offence, for a term which may extend to one-fourth, and, if the offence be not committed, to one-eighth, of the longest term of such imprisonment, or with such fine as is provided for the offence, or with both.",
+"bns_code": "BNS 60",
+"bns_title": "Concealing design to commit offence punishable with imprisonment",
+"bns_description": "Whoever, intending to facilitate or knowing it to be likely that he will thereby facilitate the commission of an offence punishable with imprisonment, voluntarily conceals, by any act or illegal omission, the existence of a design to commit such offence, or makes any representation which he knows to be false respecting such design shall—(a) if the offence be committed, be punished with imprisonment of the description provided for the offence, for a term which may extend to one-fourth; and (b) if the offence be not committed, to one-eighth, of the longest term of such imprisonment, or with such fine as is provided for the offence, or with both."
+},
+"120B": {
+"ipc_code": "120B",
+"ipc_title": "Punishment of criminal conspiracy",
+"ipc_description": "(1) Whoever is a party to a criminal conspiracy to commit an offence punishable with death, imprisonment for life or rigorous imprisonment for a term of 2 years or upwards, shall, where no express provision is made in this Code for the punishment of such a conspiracy, be punished in the same manner as if he had abetted such offence. (2) Whoever is a party to a criminal conspiracy other than a criminal conspiracy to commit an offence punishable as aforesaid shall be punished with imprisonment of either description for a term not exceeding six months, or with fine or with both.",
+"bns_code": "BNS 61(2)",
+"bns_title": "Criminal conspiracy",
+"bns_description": "Whoever is a party to a criminal conspiracy—(a) to commit an offence punishable with death, imprisonment for life or rigorous imprisonment for a term of two years or upwards, shall, where no express provision is made in this Sanhita for the punishment of such a conspiracy, be punished in the same manner as if he had abetted such offence; (b) other than a criminal conspiracy to commit an offence punishable as aforesaid shall be punished with imprisonment of either description for a term not exceeding six months, or with fine or with both."
+},
+"13": {
+"ipc_code": "13",
+"ipc_title": "Consent known to be given under fear or misconception",
+"ipc_description": "Consent given under fear of injury or misconception of fact is not consent. Consent of child under 12, unsound mind, intoxicated, or deceived as to identity is not consent.",
+"bns_code": "BNS 28",
+"bns_title": "Consent known to be given under fear or misconception",
+"bns_description": "Consent given under fear of injury or misconception of fact is not consent. Consent of child under 12, unsound mind, intoxicated, or deceived as to identity is not consent."
+},
+"143": {
+"ipc_code": "143",
+"ipc_title": "Punishment for unlawful assembly",
+"ipc_description": "Whoever is a member of an unlawful assembly shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+"bns_code": "BNS 189(2)",
+"bns_title": "Unlawful assembly",
+"bns_description": "Whoever is a member of an unlawful assembly shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both."
+},
+"147": {
+"ipc_code": "147",
+"ipc_title": "Punishment for rioting",
+"ipc_description": "Whoever is guilty of rioting, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+"bns_code": "BNS 191(2)",
+"bns_title": "Rioting",
+"bns_description": "Whoever is guilty of rioting, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+},
+"148": {
+"ipc_code": "148",
+"ipc_title": "Rioting, armed with deadly weapon",
+"ipc_description": "Whoever is guilty of rioting, being armed with a deadly weapon or with anything used as a deadly weapon shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+"bns_code": "BNS 191(3)",
+"bns_title": "Rioting, armed with deadly weapon",
+"bns_description": "Whoever is guilty of rioting, being armed with a deadly weapon or with anything used as a deadly weapon shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+},
+"149": {
+"ipc_code": "149",
+"ipc_title": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+"ipc_description": "If an offence be committed by any member of an unlawful assembly in prosecution of the common object of that assembly, or such as the members of that assembly knew to be likely to be committed in prosecution of that object, every person who, at the time of the committing of that offence, is a member of the same assembly, is guilty of that offence.",
+"bns_code": "BNS 190",
+"bns_title": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+"bns_description": "If an offence be committed by any member of an unlawful assembly in prosecution of the common object of that assembly, or such as the members of that assembly knew to be likely to be committed in prosecution of that object, every person who, at the time of the committing of that offence, is a member of the same assembly, is guilty of that offence."
+},
+"155": {
+"ipc_code": "155",
+"ipc_title": "Liability of person for whose benefit riot is committed or attempted",
+"ipc_description": "Whenever riot is committed or attempted in the course of the carrying away or attempting to carry away property of any person, any person who causes or attempts to cause to any person death, hurt or wrongful restraint, or who attempts to commit mischief or criminal trespass, in respect of any property, shall be punished with imprisonment for a term which may extend to two years, or with fine, or with both.",
+"bns_code": "BNS 193(2)",
+"bns_title": "Liability of person for whose benefit riot is committed",
+"bns_description": "Whenever riot is committed or attempted in the course of the carrying away or attempting to carry away property of any person, any person who causes or attempts to cause to any person death, hurt or wrongful restraint, or who attempts to commit mischief or criminal trespass, in respect of any property, shall be punished with imprisonment for a term which may extend to two years, or with fine, or with both."
+},
+"156": {
+"ipc_code": "156",
+"ipc_title": "Liability of agent of owner or occupier for whose benefit riot is committed or attempted",
+"ipc_description": "Whenever riot is committed or attempted in the course of the carrying away or attempting to carry away property of any person, any agent of the owner or occupier of the property who causes or attempts to cause to any person death, hurt or wrongful restraint, or who attempts to commit mischief or criminal trespass, in respect of any property, shall be punished with imprisonment for a term which may extend to two years, or with fine, or with both.",
+"bns_code": "BNS 193(3)",
+"bns_title": "Liability of agent of owner or occupier for whose benefit riot is committed",
+"bns_description": "Whenever riot is committed or attempted in the course of the carrying away or attempting to carry away property of any person, any agent of the owner or occupier of the property who causes or attempts to cause to any person death, hurt or wrongful restraint, or who attempts to commit mischief or criminal trespass, in respect of any property, shall be punished with imprisonment for a term which may extend to two years, or with fine, or with both."
+},
+"161": {
+"ipc_code": "161",
+"ipc_title": "Public servant taking gratification other than legal remuneration in respect of an official act (Repealed)",
+"ipc_description": "Whoever, being, or expecting to be a public servant, accepts or obtains or agrees to accept, or attempts to obtain from any person, for himself or for any other person, any gratification whatever, other than legal remuneration, as a motive or reward for doing or forbearing to do any official act or for showing or forbearing to show, in the exercise of his official functions, favour or disfavour to any person, or for rendering or attempting to render any service or disservice to any person, with the Central Government or any State Government or Parliament or the Legislature of any State, or with any local authority, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+"bns_code": "BNS 198",
+"bns_title": "Public servant disobeying law, with intent to cause injury to any person",
+"bns_description": "Whoever, being a public servant, knowingly disobeys any direction of the law as to the way in which he is to conduct himself as such public servant, intending to cause, or knowing it to be likely that he will, by such disobedience, cause injury to any person, shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both. (Note: IPC 161 repealed; BNS has new provisions for corruption under Prevention of Corruption Act integration.)"
+},
+"164": {
+"ipc_code": "164",
+"ipc_title": "Punishment for abetment of offences punishable with death or imprisonment for life",
+"ipc_description": "Whoever abets the commission of an offence punishable with death or imprisonment for life, shall, if that offence be not committed in consequence of the abetment, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; and if any act or illegal omission constituting the abetment is committed in addition to the instigation, or in pursuance of the conspiracy, or in pursuance of the abetment, with each of the above punishments.",
+"bns_code": "BNS 55",
+"bns_title": "Abetment of offence punishable with death or imprisonment for life",
+"bns_description": "Whoever abets the commission of an offence punishable with death or imprisonment for life, shall, if that offence be not committed in consequence of the abetment, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+},
+"173": {
+"ipc_code": "173",
+"ipc_title": "Preventing service of summons or other proceeding, or preventing publication thereof",
+"ipc_description": "Whoever in any manner intentionally prevents the serving on himself, or on any other person, of any summons, notice or order proceeding from any public servant legally competent, as such public servant, to issue such summons, notice or order, or intentionally prevents the lawful affixing to, or service on, any place of any such summons, notice or order, or intentionally removes any such summons, notice or order from any place to which it is lawfully affixed, or intentionally prevents the lawful making of any proclamation, under the authority of any public servant, legally competent, as such public servant, to direct such proclamation to be made, shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five hundred rupees, or with both; or, if the summons or notice or order is to attend in person or by agent, or to produce a document in a Court of Justice, with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+"bns_code": "BNS 211",
+"bns_title": "Omission to give notice or information to public servant by person legally bound to give it",
+"bns_description": "Whoever, knowing or having reason to believe that an offence has been committed, omits to give information to the nearest Magistrate or police officer, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to five hundred rupees, or with both."
+},
+"174A": {
+"ipc_code": "174A",
+"ipc_title": "Non-appearance in response to a proclamation under section 82 of Act 2 of 1974",
+"ipc_description": "Whoever fails to appear at the specified place and time as required by a proclamation published under sub-section (1) of section 82 of the Code of Criminal Procedure, 1973, shall be punished with imprisonment of either description for a term which may extend to three years or with fine or with both, and if the proclamation is for taking security for good behaviour, the punishment shall be the same as for failure to give security.",
+"bns_code": "BNS 209",
+"bns_title": "Non-appearance in response to a proclamation under section 84 of Bharatiya Nagarik Suraksha Sanhita, 2023",
+"bns_description": "Whoever fails to appear at the specified place and time as required by a proclamation published under sub-section (1) of section 84 of the Bharatiya Nagarik Suraksha Sanhita, 2023, shall be punished with imprisonment of either description for a term which may extend to three years or with fine or with both."
+},
+"186": {
+"ipc_code": "186",
+"ipc_title": "Omitting to give notice or information to public servant by person legally bound to give it",
+"ipc_description": "Whoever, being legally bound to give any notice or to furnish information on any subject to any public servant, as such, intentionally omits to give such notice or to furnish such information in the manner and at the time required by law, shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to two hundred rupees, or with both; or, if the notice or information required to be given respects the commission of an offence, or is required for the purpose of preventing the commission of an offence, or in order to the apprehension of an offender, with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+"bns_code": "BNS 221",
+"bns_title": "Obstructing public servant in discharge of public functions",
+"bns_description": "Whoever voluntarily obstructs any public servant in the discharge of his public functions, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five thousand rupees, or with both."
+},
+"188": {
+"ipc_code": "188",
+"ipc_title": "Disobedience to order duly promulgated by public servant",
+"ipc_description": "Whoever knowingly disobeys any direction of the law contained in an order promulgated by a public servant lawfully empowered to promulgate such order, shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to two hundred rupees, or with both; if such disobedience causes or tends to cause obstruction, annoyance or injury, or risk of obstruction, annoyance or injury, to any persons lawfully employed, with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+"bns_code": "BNS 223",
+"bns_title": "Disobedience to order duly promulgated by public servant",
+"bns_description": "Whoever, knowing that, by an order promulgated by a public servant lawfully empowered to promulgate such order, directs him to abstain from a certain act, or to take certain order with certain property in his possession or under his management, disobeys such direction, shall, if such disobedience causes or tends to cause obstruction, annoyance or injury, or risk of obstruction, annoyance or injury, to any persons lawfully employed, be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both; and if such disobedience causes or tends to cause danger to human life, health or safety, or causes or tends to cause a riot or affray, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both."
+},
+"190": {
+"ipc_code": "190",
+"ipc_title": "Omission to assist public servant when bound by law to give assistance",
+"ipc_description": "Whoever, being bound to do so by law, intentionally omits to give any assistance to any public servant in the execution of his duty, shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to two hundred rupees, or with both.",
+"bns_code": "BNS 225",
+"bns_title": "Threat of injury to induce person to refrain from applying for protection to public servant",
+"bns_description": "Whoever holds out any threat of injury to any public servant, or to any person in whom he believes that public servant to be interested, for the purpose of inducing that public servant to do any act, or to forbear or delay to do any act, connected with the exercise of the public functions of such public servant, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+},
+"193": {
+"ipc_code": "193",
+"ipc_title": "Punishment for false evidence",
+"ipc_description": "Whoever intentionally gives false evidence in any stage of a judicial proceeding, or fabricates false evidence for the purpose of being used in any stage of a judicial proceeding, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; and whoever intentionally gives or fabricates false evidence in any other case, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+"bns_code": "BNS 229",
+"bns_title": "Punishment for false evidence",
+"bns_description": "Whoever intentionally gives false evidence in any stage of a judicial proceeding, or fabricates false evidence for the purpose of being used in any stage of a judicial proceeding, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine, and whoever intentionally gives or fabricates false evidence in any other case, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine."
+},
+"2": {
+"ipc_code": "2",
+"ipc_title": "Punishment of offences committed within India",
+"ipc_description": "Every person shall be liable to punishment under this Code and not otherwise for every act or omission contrary to the provisions thereof, of which he shall be guilty within India.",
+"bns_code": "BNS 1(3)",
+"bns_title": "Short title, commencement and application",
+"bns_description": "This Sanhita may be called the Bharatiya Nyaya Sanhita, 2023. It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint. It extends to the whole of India."
+},
+"200": {
+"ipc_code": "200",
+"ipc_title": "Using as true such declaration knowing it to be false",
+"ipc_description": "Whoever fraudulently or dishonestly uses as true any declaration which he knows or has reason to believe to be false or which he knows or has reason to believe to have been made by a person not authorised to make it, shall be punished in the same manner as if he gave false evidence.",
+"bns_code": "BNS 237",
+"bns_title": "Using as true such declaration knowing it to be false",
+"bns_description": "Whoever fraudulently or dishonestly uses as true any declaration which he knows or has reason to believe to be false or which he knows or has reason to believe to have been made by a person not authorised to make it, shall be punished in the same manner as if he gave false evidence."
+},
+"201": {
+"ipc_code": "201",
+"ipc_title": "Causing disappearance of evidence of offence, or giving false information to screen offender",
+"ipc_description": "Whoever, knowing or having reason to believe that an offence has been committed, causes any evidence of the commission of such offence to disappear, with the intention of screening the offender from legal punishment, or with that intention gives any information respecting the offence which he knows or believes to be false, if the offence which he knows or believes to have been committed is punishable with imprisonment for life or with imprisonment for ten years, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and if the offence is punishable with imprisonment which may extend to seven years, with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; and if the offence is punishable with imprisonment for a term which may extend to three years, with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; and if the offence is punishable with imprisonment for a term which may extend to one year, with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+"bns_code": "BNS 238",
+"bns_title": "Causing disappearance of evidence of offence, or giving false information to screen offender",
+"bns_description": "Whoever, knowing or having reason to believe that an offence has been committed, causes any evidence of the commission of such offence to disappear, with the intention of screening the offender from legal punishment, or with that intention gives any information respecting the offence which he knows or believes to be false, if the offence which he knows or believes to have been committed is punishable with imprisonment for life or with imprisonment for ten years, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+},
+"228": {
+"ipc_code": "228",
+"ipc_title": "Intentional insult or interruption to public servant sitting in judicial proceeding",
+"ipc_description": "Whoever intentionally offers any insult, or causes any interruption to any public servant, while such public servant is sitting in any stage of a judicial proceeding, before the public servant, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+"bns_code": "BNS 267",
+"bns_title": "Intentional insult or interruption to public servant sitting in judicial proceeding",
+"bns_description": "Whoever intentionally offers any insult, or causes any interruption to any public servant, while such public servant is sitting in any stage of a judicial proceeding, before the public servant, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both."
+},
+"229A": {
+"ipc_code": "229A",
+"ipc_title": "Threatening any person to give false evidence",
+"ipc_description": "Whoever threatens any person with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause that person to give false evidence, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+"bns_code": "BNS 269",
+"bns_title": "Failure by person released on bail bond or bond to appear in Court",
+"bns_description": "Whoever, having been released on bail or bond without sureties for appearance before any Court, intentionally fails to attend that Court when called upon to do so, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both."
+},
+"279": {
+"ipc_code": "279",
+"ipc_title": "Rash driving or riding on a public way",
+"ipc_description": "Whoever drives any vehicle, or rides, on any public way in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+"bns_code": "BNS 281",
+"bns_title": "Rash driving or riding on a public way",
+"bns_description": "Whoever drives any vehicle, or rides, on any public way in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both."
+},
+"294": {
+"ipc_code": "294",
+"ipc_title": "Obscene acts and songs",
+"ipc_description": "Whoever, to the annoyance of others, (a) does any obscene act in any public place, or (b) sings, recites or utters any obscene song, ballad or words, in or near any public place, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine, or with both.",
+"bns_code": "BNS 296",
+"bns_title": "Obscene acts and songs",
+"bns_description": "Whoever, to the annoyance of others, (a) does any obscene act in any public place, or (b) sings, recites or utters any obscene song, ballad or words, in or near any public place, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five thousand rupees, or with both."
+},
+"299": {
+"ipc_code": "299",
+"ipc_title": "Culpable homicide",
+"ipc_description": "Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide.",
+"bns_code": "BNS 100",
+"bns_title": "Culpable homicide",
+"bns_description": "Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide."
+},
+"3": {
+"ipc_code": "3",
+"ipc_title": "Punishment of offences committed beyond, but which by law may be tried within, India",
+"ipc_description": "Any person liable, by any Indian law, to be tried for an offence committed beyond India shall be dealt with according to the provisions of this Code as if such offence had been committed within India.",
+"bns_code": "BNS 3",
+"bns_title": "General explanations",
+"bns_description": "General explanations of terms used in this Sanhita, including definitions of 'act', 'offence', 'voluntarily', etc."
+},
+"300": {
+"ipc_code": "300",
+"ipc_title": "Murder",
+"ipc_description": "Except in the cases hereinafter excepted, culpable homicide is murder— (1) If the act by which the death is caused is done with the intention of causing death; or (2) If it is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused; or (3) If it is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death; or (4) If the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death, or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury as aforesaid.",
+"bns_code": "BNS 101",
+"bns_title": "Murder",
+"bns_description": "Except in the cases hereinafter excepted, culpable homicide is murder— (1) If the act by which the death is caused is done with the intention of causing death; or (2) If it is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused; or (3) If it is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death; or (4) If the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death, or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury as aforesaid."
+},
+"302": {
+"ipc_code": "302",
+"ipc_title": "Punishment for murder",
+"ipc_description": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+"bns_code": "BNS 103",
+"bns_title": "Punishment for murder",
+"bns_description": "Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine."
+},
+"304": {
+"ipc_code": "304",
+"ipc_title": "Punishment for culpable homicide not amounting to murder",
+"ipc_description": "Whoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine, if the act by which the death is caused is done with the intention of causing death, or of causing such bodily injury as is likely to cause death; or with imprisonment of either description for a term which may extend to ten years, or with fine, or with both, if the act is done with the knowledge that it is likely to cause death, but without any intention of causing death, or of causing such bodily injury as is likely to cause death.",
+"bns_code": "BNS 105",
+"bns_title": "Punishment for culpable homicide not amounting to murder",
+"bns_description": "Whoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine, if the act by which the death is caused is done with the intention of causing death, or of causing such bodily injury as is likely to cause death; or with imprisonment of either description for a term which may extend to ten years, or with fine, or with both, if the act is done with the knowledge that it is likely to cause death, but without any intention of causing death, or of causing such bodily injury as is likely to cause death."
+},
+"304A": {
+"ipc_code": "304A",
+"ipc_title": "Causing death by negligence",
+"ipc_description": "Whoever causes death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+"bns_code": "BNS 106",
+"bns_title": "Causing death by negligence",
+"bns_description": "Whoever causes death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both."
+},
+"304B": {
+"ipc_code": "304B",
+"ipc_title": "Dowry death",
+"ipc_description": "Where the death of a woman is caused by any burns or bodily injury or occurs otherwise than under normal circumstances within seven years of her marriage and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or any relative of her husband for, or in connection with, any demand for dowry, such death shall be called 'dowry death', and such husband or relative shall be deemed to have caused her death. Whoever commits dowry death shall be punished with imprisonment for a term which shall not be less than seven years but which may extend to imprisonment for life.",
+"bns_code": "BNS 80",
+"bns_title": "Dowry death",
+"bns_description": "Where the death of a woman is caused by any burns or bodily injury or occurs otherwise than under normal circumstances within seven years of her marriage and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or any relative of her husband for, or in connection with, any demand for dowry, such death shall be called 'dowry death', and such husband or relative shall be deemed to have caused her death. Whoever commits dowry death shall be punished with imprisonment for a term which shall not be less than seven years but which may extend to imprisonment for life."
+},
+"306": {
+"ipc_code": "306",
+"ipc_title": "Abetment of suicide",
+"ipc_description": "If any person commits suicide, whoever abets the commission of such suicide, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+"bns_code": "BNS 108",
+"bns_title": "Abetment of suicide",
+"bns_description": "If any person commits suicide, whoever abets the commission of such suicide, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+},
+"307": {
+"ipc_code": "307",
+"ipc_title": "Attempt to murder",
+"ipc_description": "Whoever attempts to commit murder and, by doing any act towards the commission of the offence, does any act with such intention or knowledge and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and, if hurt is caused to any person by such act, the offender shall be liable either to imprisonment for life or to such punishment as is hereinbefore mentioned. When any person offending under this section is under sentence of imprisonment for life, he may, if hurt is caused, be punished with death.",
+"bns_code": "BNS 109",
+"bns_title": "Attempt to murder",
+"bns_description": "Whoever attempts to commit murder and, by doing any act towards the commission of the offence, does any act with such intention or knowledge and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and, if hurt is caused to any person by such act, the offender shall be liable either to imprisonment for life or to such punishment as is hereinbefore mentioned."
+},
+"308": {
+"ipc_code": "308",
+"ipc_title": "Attempt to commit culpable homicide",
+"ipc_description": "Whoever does any act with such intention or knowledge and under such circumstances that, if he by that act caused death, he would be guilty of culpable homicide not amounting to murder, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and, if hurt is caused to any person by such act, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+"bns_code": "BNS 110",
+"bns_title": "Attempt to commit culpable homicide",
+"bns_description": "Whoever does any act with such intention or knowledge and under such circumstances that, if he by that act caused death, he would be guilty of culpable homicide not amounting to murder, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and, if hurt is caused to any person by such act, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both."
+},
+"313": {
+"ipc_code": "313",
+"ipc_title": "Causing miscarriage without woman's consent",
+"ipc_description": "Whoever, with intent to cause the miscarriage of a woman with child, does any act which causes the death of such woman, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; if act done without woman's consent.",
+"bns_code": "BNS 88",
+"bns_title": "Causing miscarriage without woman's consent",
+"bns_description": "Whoever, with intent to cause the miscarriage of a woman with child, does any act which causes the death of such woman, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+},
+"320": {
+"ipc_code": "320",
+"ipc_title": "Grievous hurt",
+"ipc_description": "The following kinds of hurt only are designated as 'grievous':— First—Emasculation. Secondly—Permanent privation of the sight of either eye. Thirdly—Permanent privation of the hearing of either ear. Fourthly—Privation of any member or joint. Fifthly—Destruction or permanent impairing of the powers of any member or joint. Sixthly—Permanent disfiguration of the head or face. Seventhly—Fracture or dislocation of a bone or tooth. Eighthly—Any hurt which endangers life or which causes the sufferer to be during twenty days in severe bodily pain, or unable to follow his ordinary pursuits.",
+"bns_code": "BNS 115(1)",
+"bns_title": "Grievous hurt",
+"bns_description": "The following kinds of hurt only are designated as 'grievous':— First—Emasculation. Secondly—Permanent privation of the sight of either eye. Thirdly—Permanent privation of the hearing of either ear. Fourthly—Privation of any member or joint. Fifthly—Destruction or permanent impairing of the powers of any member or joint. Sixthly—Permanent disfiguration of the head or face. Seventhly—Fracture or dislocation of a bone or tooth. Eighthly—Any hurt which endangers life or which causes the sufferer to be during twenty days in severe bodily pain, or unable to follow his ordinary pursuits."
+},
+"323": {
+"ipc_code": "323",
+"ipc_title": "Punishment for voluntarily causing hurt",
+"ipc_description": "Whoever, except in the case provided for by section 334, voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both.",
+"bns_code": "BNS 115(2)",
+"bns_title": "Punishment for voluntarily causing hurt",
+"bns_description": "Whoever, except in the case provided for by section 125, voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both."
+},
+"324": {
+"ipc_code": "324",
+"ipc_title": "Voluntarily causing hurt by dangerous weapons or means",
+"ipc_description": "Whoever, except in the case provided for by section 334, voluntarily causes hurt, by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+"bns_code": "BNS 118(1)",
+"bns_title": "Voluntarily causing hurt or grievous hurt by dangerous weapons or means",
+"bns_description": "Whoever, except in the case provided for by section 125, voluntarily causes hurt, by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+},
+"325": {
+"ipc_code": "325",
+"ipc_title": "Punishment for voluntarily causing grievous hurt",
+"ipc_description": "Whoever, except in the case provided for by section 335, voluntarily causes grievous hurt, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+"bns_code": "BNS 117(2)",
+"bns_title": "Punishment for voluntarily causing grievous hurt",
+"bns_description": "Whoever, except in the case provided for by section 125, voluntarily causes grievous hurt, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+},
+"326": {
+"ipc_code": "326",
+"ipc_title": "Voluntarily causing grievous hurt by dangerous weapons or means",
+"ipc_description": "Whoever, except in the case provided for by section 335, voluntarily causes grievous hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+"bns_code": "BNS 118",
+"bns_title": "Voluntarily causing hurt or grievous hurt by dangerous weapons or means",
+"bns_description": "Whoever, except in the case provided for by section 125, voluntarily causes grievous hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+},
+"332": {
+"ipc_code": "332",
+"ipc_title": "Voluntarily causing hurt to deter public servant from his duty",
+"ipc_description": "Whoever causes hurt to any person being a public servant in the discharge of his duty as such public servant, or with intent to prevent or deter that or any other public servant from discharge his duty as such public servant, or in consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+"bns_code": "BNS 121",
+"bns_title": "Voluntarily causing hurt or grievous hurt to deter public servant from his duty",
+"bns_description": "Whoever causes hurt to any person being a public servant in the discharge of his duty as such public servant, or with intent to prevent or deter that or any other public servant from discharge his duty as such public servant, or in consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+},
+"336": {
+"ipc_code": "336",
+"ipc_title": "Act endangering life or personal safety of others",
+"ipc_description": "Whoever does any act so rashly or negligently as to endanger human life, or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to two hundred and fifty rupees, or with both.",
+"bns_code": "BNS 125",
+"bns_title": "Act endangering life or personal safety of others",
+"bns_description": "Whoever does any act so rashly or negligently as to endanger human life, or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five thousand rupees, or with both."
+},
+"337": {
+"ipc_code": "337",
+"ipc_title": "Causing hurt by act endangering life or personal safety of others",
+"ipc_description": "Whoever causes hurt to any person by doing any act so rashly or negligently as to endanger human life, or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five hundred rupees, or with both.",
+"bns_code": "BNS 125",
+"bns_title": "Act endangering life or personal safety of others",
+"bns_description": "Whoever causes hurt to any person by doing any act so rashly or negligently as to endanger human life, or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both."
+},
+"338": {
+"ipc_code": "338",
+"ipc_title": "Causing grievous hurt by act endangering life or personal safety of others",
+"ipc_description": "Whoever causes grievous hurt to any person by doing any act so rashly or negligently as to endanger human life, or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine which may extend to one thousand rupees, or with both.",
+"bns_code": "BNS 125",
+"bns_title": "Act endangering life or personal safety of others",
+"bns_description": "Whoever causes grievous hurt to any person by doing any act so rashly or negligently as to endanger human life, or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine which may extend to twenty thousand rupees, or with both."
+},
+"34": {
+"ipc_code": "34",
+"ipc_title": "Acts done by several persons in furtherance of common intention",
+"ipc_description": "When a criminal act is done by several persons in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if it were done by him alone.",
+"bns_code": "BNS 3(5)",
+"bns_title": "General Explanations - Acts done by several persons in furtherance of common intention",
+"bns_description": "When a criminal act is done by several persons in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if it were done by him alone."
+},
+"341": {
+"ipc_code": "341",
+"ipc_title": "Punishment for wrongful restraint",
+"ipc_description": "Whoever wrongfully restrains any person shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five hundred rupees, or with both.",
+"bns_code": "BNS 126(2)",
+"bns_title": "Punishment for wrongful restraint",
+"bns_description": "Whoever wrongfully restrains any person shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both."
+},
+"342": {
+"ipc_code": "342",
+"ipc_title": "Punishment for wrongful confinement",
+"ipc_description": "Whoever wrongfully confines any person shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both.",
+"bns_code": "BNS 127(2)",
+"bns_title": "Punishment for wrongful confinement",
+"bns_description": "Whoever wrongfully confines any person shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both."
+},
+"353": {
+"ipc_code": "353",
+"ipc_title": "Assault or criminal force to deter public servant from discharge of his duty",
+"ipc_description": "Whoever assaults or uses criminal force to any person being a public servant in the execution of his duty as such public servant, or with intent to prevent or deter that or any other public servant from discharge his duty as such public servant, or in consequence of anything done or attempted to be done by such public servant in the lawful discharge of his duty as such public servant, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+"bns_code": "BNS 132",
+"bns_title": "Assault or criminal force to deter public servant from discharge of his duty",
+"bns_description": "Whoever assaults or uses criminal force to any person being a public servant in the execution of his duty as such public servant, or with intent to prevent or deter that or any other public servant from discharge his duty as such public servant, or in consequence of anything done or attempted to be done by such public servant in the lawful discharge of his duty as such public servant, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+},
+"354": {
+"ipc_code": "354",
+"ipc_title": "Assault or criminal force to woman with intent to outrage her modesty",
+"ipc_description": "Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to five years, and shall also be liable to fine.",
+"bns_code": "BNS 74",
+"bns_title": "Assault or use of criminal force to woman with intent to outrage her modesty",
+"bns_description": "Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to five years, and shall also be liable to fine."
+},
+"363": {
+"ipc_code": "363",
+"ipc_title": "Kidnapping",
+"ipc_description": "Whoever conveys any person beyond the limits of India without the consent of that person, or any person legally authorised to consent on behalf of that person, is said to kidnap that person from India. Whoever kidnaps or abducts any person, the intention of which is to cause that person to be secretly and wrongfully confined, is said to kidnap or abduct such person.",
+"bns_code": "BNS 137(2)",
+"bns_title": "Kidnapping",
+"bns_description": "Whoever conveys any person beyond the limits of India without the consent of that person, or any person legally authorised to consent on behalf of that person, is said to kidnap that person from India. Whoever kidnaps or abducts any person, the intention of which is to cause that person to be secretly and wrongfully confined, is said to kidnap or abduct such person."
+},
+"364": {
+"ipc_code": "364",
+"ipc_title": "Kidnapping or abducting in order to murder or for ransom, etc.",
+"ipc_description": "Whoever kidnaps or abducts any person or any person and then being intent on causing that person, unless such person pays or delivers to him such ransom or does such other act, as is demanded of him, to be murdered, or so disposed of as to be put in danger of being murdered, shall be punished with imprisonment for life or rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+"bns_code": "BNS 140",
+"bns_title": "Kidnapping or abducting in order to murder or for ransom, etc.",
+"bns_description": "Whoever kidnaps or abducts any person or any person and then being intent on causing that person, unless such person pays or delivers to him such ransom or does such other act, as is demanded of him, to be murdered, or so disposed of as to be put in danger of being murdered, shall be punished with death or imprisonment for life, and shall also be liable to fine."
+},
+"365": {
+"ipc_code": "365",
+"ipc_title": "Kidnapping or abducting with intent secretly and wrongfully to confine person",
+"ipc_description": "Whoever kidnaps or abducts any person with intent to cause that person to be secretly and wrongfully confined, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+"bns_code": "BNS 140(3)",
+"bns_title": "Kidnapping or abducting with intent secretly and wrongfully to confine person",
+"bns_description": "Whoever kidnaps or abducts any person with intent to cause that person to be secretly and wrongfully confined, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+},
+"366": {
+"ipc_code": "366",
+"ipc_title": "Kidnapping, abducting or inducing woman to compel her marriage, etc.",
+"ipc_description": "Whoever kidnaps or abducts any woman with intent that she may be compelled, or knowing it to be likely that she will be compelled, to marry any person against her will, or in order that she may be forced or seduced to illicit intercourse, or knowing it to be likely that she will be forced or seduced to illicit intercourse, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+"bns_code": "BNS 87",
+"bns_title": "Kidnapping, abducting or inducing woman to compel her marriage, etc.",
+"bns_description": "Whoever kidnaps or abducts any woman with intent that she may be compelled, or knowing it to be likely that she will be compelled, to marry any person against her will, or in order that she may be forced or seduced to illicit intercourse, or knowing it to be likely that she will be forced or seduced to illicit intercourse, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+},
+"366A": {
+"ipc_code": "366A",
+"ipc_title": "Procuration of minor girl",
+"ipc_description": "Whoever, by any means whatsoever, induces any minor girl under the age of eighteen years to go from any place or to do any act with intent that such girl may be, or knowing that it is likely that she will be, forced or seduced to illicit intercourse with any person shall be punishable with imprisonment which may extend to ten years, and shall also be liable to fine.",
+"bns_code": "BNS 96",
+"bns_title": "Procuration of child",
+"bns_description": "Whoever, by any means whatsoever, induces any minor girl under the age of eighteen years to go from any place or to do any act with intent that such girl may be, or knowing that it is likely that she will be, forced or seduced to illicit intercourse with any person shall be punishable with imprisonment which may extend to ten years, and shall also be liable to fine."
+},
+"375": {
+"ipc_code": "375",
+"ipc_title": "Rape",
+"ipc_description": "A man is said to commit 'rape' if he penetrates his penis, to any extent, into the vagina, mouth, urethra or anus of a woman or makes her to do so with him or any other person or applies his mouth to the vagina, anus, urethra of a woman or makes her to do so with him or any other person, under the circumstances falling under any of the following seven descriptions: First—Against her will. Secondly—Without her consent. Thirdly—With her consent, when her consent has been obtained by putting her or any person in whom she is interested, in fear of death or of hurt. Fourthly—With her consent, when the man knows that he is not her husband and that her consent is given because she believes that he is another man to whom she is or believes herself to be lawfully married. Fifthly—With her consent when, at the time of giving such consent, by reason of unsoundness of mind or intoxication or the administration by him to her or any person who gave such consent or by the woman consenting, of any stupefying or unwholesome substance, she is unable to understand the nature and consequences of that to which she gives consent. Sixthly—With or without her consent, when she is under eighteen years of age. Seventhly—When she is unable to communicate consent. Explanation 1.—For the purposes of this section, 'vagina' shall also include labia majora. Explanation 2.—Consent means an unequivocal voluntary agreement when the woman by words, gestures or any form of verbal or non-verbal communication, communicates willingness to participate in the specific sexual act: Provided that a woman who does not physically resist to the act of penetration shall not by the reason only of that fact, be regarded as consenting to the sexual activity.",
+"bns_code": "BNS 63",
+"bns_title": "Rape",
+"bns_description": "A man is said to commit 'rape' who, except in the case hereinafter excepted, has sexual intercourse with a woman under circumstances falling under any of the following descriptions: First.—Against her will. Secondly.—Without her consent. Thirdly.—With her consent, when her consent has been obtained by putting her or any person in whom she is interested in fear of death or of hurt. Fourthly.—With her consent, when the man knows that he is not her husband, and that her consent is given because she believes that he is another man to whom she is or believes herself to be lawfully married. Fifthly.—With her consent, when, at the time of giving such consent, by reason of unsoundness of mind or intoxication or the administration by him to her of any stupefying or unwholesome substance, she is unable to understand the nature and consequences of that to which she gives consent. Sixthly.—With or without her consent, when she is under sixteen years of age. Explanation.—Penetration is sufficient to complete the offence. Exception.—Sexual intercourse by a man with his own wife, the wife not being under fifteen years of age, is not rape."
+},
+"376": {
+"ipc_code": "376",
+"ipc_title": "Punishment for rape",
+"ipc_description": "Whoever, except in the cases provided for in sub-section (2), commits rape, shall be punished with rigorous imprisonment for a term which shall not be less than ten years, but which may extend to imprisonment for life, which shall mean imprisonment for the remainder of the natural life of that person, and shall also be liable to fine. (2) Whoever,— (a) being a police officer, commits rape— (i) within the limits of the police station to which such police officer is appointed; or (ii) in the premises of any station house; or (iii) on a woman in such police officer’s custody or in the custody of a police officer subordinate to such police officer; or (b) being a public servant, commits rape on a woman in such public servant’s custody or in the custody of a public servant subordinate to such public servant; or (c) being a member of the armed forces deployed in an area by the Central or a State Government commits rape in such area; or (d) being on the management or on the staff of a jail, remand home or other place of custody established by or under any law for the time being in force or of a women’s or children’s institution, commits rape on any inmate of such jail, remand home, place or institution; or (e) being on the management or on the staff of a hospital, commits rape on a woman in that hospital; or (f) being a relative, guardian or teacher of, or a person in a position of trust or authority towards the woman, commits rape on such woman; or (g) commits rape during communal or sectarian violence; or (h) commits rape on a woman knowing her to be pregnant; or (i) commits rape on a woman when she is under sixteen years of age; or (j) commits rape, on a woman incapable of giving consent; or (k) being in a position of control or dominance over a woman, commits rape on such woman; or (l) commits rape on a woman suffering from mental or physical disability; or (m) while committing rape causes grievous bodily harm or maims or disfigures or endangers the life of a woman; or (n) commits rape repeatedly on the same woman, shall be punished with rigorous imprisonment for a term which shall not be less than ten years, but which may extend to imprisonment for life, which shall mean imprisonment for the remainder of the natural life of that person, and shall also be liable to fine. Explanation.—For the purposes of this sub-section,— (a) 'armed forces' means the naval, military and air forces and includes any member of the Armed Forces constituted under any law for the time being in force, including the paramilitary forces and any auxiliary forces that are under the control of the Central Government or the State Government; (b) 'hospital' means the precincts of the hospital and includes the precincts of any institution for the reception and treatment of persons during convalescence or of persons requiring medical attention or rehabilitation; (c) 'police officer' shall have the same meaning as assigned to the expression 'police' under the Police Act, 1861 (5 of 1861); (d) 'women's or children's institution' means an institution, whether called an orphanage or a home for neglected women or children or a widow's home or an institution called by any other name, which is established and maintained for the reception, care, education and welfare, of women or children.",
+"bns_code": "BNS 64",
+"bns_title": "Punishment for rape",
+"bns_description": "Whoever, except in the cases provided for in sub-section (2), commits rape, shall be punished with rigorous imprisonment for a term which shall not be less than ten years, but which may extend to imprisonment for life, which shall mean imprisonment for the remainder of the natural life of that person, and shall also be liable to fine."
+},
+"379": {
+"ipc_code": "379",
+"ipc_title": "Theft",
+"ipc_description": "Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft.",
+"bns_code": "BNS 303(2)",
+"bns_title": "Theft",
+"bns_description": "Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft. Punishment: imprisonment up to three years, or fine, or both."
+},
+"380": {
+"ipc_code": "380",
+"ipc_title": "Theft in dwelling house, etc.",
+"ipc_description": "Whoever commits theft in any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or used for the custody of property, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+"bns_code": "BNS 305",
+"bns_title": "Theft in a dwelling house, or means of transportation or place of worship, etc.",
+"bns_description": "Whoever commits theft in any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or used for the custody of property, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+},
+"384": {
+"ipc_code": "384",
+"ipc_title": "Punishment for extortion",
+"ipc_description": "Whoever commits extortion shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+"bns_code": "BNS 308(2)",
+"bns_title": "Punishment for extortion",
+"bns_description": "Whoever commits extortion shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+},
+"389": {
+"ipc_code": "389",
+"ipc_title": "Putting person in fear of accusation of offence, in order to commit extortion",
+"ipc_description": "Whoever, in order to the committing of extortion, puts any person in fear of an accusation, against that person or any other, of having committed or attempted to commit any offence punishable with death or with imprisonment for life, or with imprisonment for a term which may extend to ten years, or of having attempted to induce any other person to commit such offence, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and, if the offence be one punishable under section 377 of this Code, may be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+"bns_code": "BNS 308(7)",
+"bns_title": "Putting person in fear of accusation of offence, in order to commit extortion",
+"bns_description": "Whoever, in order to the committing of extortion, puts any person in fear of an accusation, against that person or any other, of having committed or attempted to commit any offence punishable with death or with imprisonment for life, or with imprisonment for a term which may extend to ten years, or of having attempted to induce any other person to commit such offence, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+},
+"392": {
+"ipc_code": "392",
+"ipc_title": "Punishment for robbery",
+"ipc_description": "If, at the time of committing robbery or of immediately before or immediately after the commission of that offence, he uses any deadly weapon, or causes or attempts to cause to any person death or hurt or wrongful restraint, or fear of instant death or of instant hurt, or of instant wrongful restraint, shall be punished with rigorous imprisonment for a term which may extend to fourteen years, and shall also be liable to fine.",
+"bns_code": "BNS 309",
+"bns_title": "Robbery",
+"bns_description": "If, at the time of committing robbery or of immediately before or immediately after the commission of that offence, he uses any deadly weapon, or causes or attempts to cause to any person death or hurt or wrongful restraint, or fear of instant death or of instant hurt, or of instant wrongful restraint, shall be punished with rigorous imprisonment for a term which may extend to fourteen years, and shall also be liable to fine."
+},
+"394": {
+"ipc_code": "394",
+"ipc_title": "Voluntarily causing hurt in committing robbery",
+"ipc_description": "If any person, in committing or in attempting to commit robbery, voluntarily causes hurt, shall be punished with imprisonment for life, or rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+"bns_code": "BNS 309",
+"bns_title": "Robbery",
+"bns_description": "If any person, in committing or in attempting to commit robbery, voluntarily causes hurt, shall be punished with imprisonment for life, or rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine."
+},
+"395": {
+"ipc_code": "395",
+"ipc_title": "Punishment for dacoity",
+"ipc_description": "Whoever commits dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+"bns_code": "BNS 310",
+"bns_title": "Dacoity",
+"bns_description": "Whoever commits dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine."
+},
+"397": {
+"ipc_code": "397",
+"ipc_title": "Dacoity with attempt to cause death or grievous hurt",
+"ipc_description": "If, at the time of committing dacoity, the offender uses any deadly weapon, or causes or attempts to cause to any person death or grievous hurt, or attempts to cause grievous hurt, every person who is a party to the dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years.",
+"bns_code": "BNS 311",
+"bns_title": "Robbery or dacoity, with attempt to cause death or grievous hurt",
+"bns_description": "If, at the time of committing robbery or dacoity, the offender uses any deadly weapon, or causes or attempts to cause to any person death or grievous hurt, or attempts to cause grievous hurt, every person who is a party to the robbery or dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years."
+},
+"4": {
+"ipc_code": "4",
+"ipc_title": "Extension of Code to extra-territorial offences",
+"ipc_description": "The provisions of this Code apply also to any offence committed by— (1) any citizen of India in any place without and beyond India; (2) any person on any ship or aircraft registered in India wherever it may be. Explanation.—In this section the word 'offence' includes any act committed outside India which, if committed in India, would be punishable under this Code, and 'person' includes any company incorporated under any law for the time being in force.",
+"bns_code": "BNS 4",
+"bns_title": "Punishments",
+"bns_description": "The punishments to which offenders are liable under the provisions of this Sanhita are— (a) Death; (b) Imprisonment for life; (c) Imprisonment, which is of two descriptions, namely:— (i) rigorous, that is, with hard labour; (ii) simple; (d) Forfeiture of property; (e) Fine."
+},
+"406": {
+"ipc_code": "406",
+"ipc_title": "Punishment for criminal breach of trust",
+"ipc_description": "Whoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+"bns_code": "BNS 316(2)",
+"bns_title": "Criminal breach of trust",
+"bns_description": "Whoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+},
+"409": {
+"ipc_code": "409",
+"ipc_title": "Criminal breach of trust by public servant, or by banker, merchant or agent",
+"ipc_description": "Whoever, being in any manner entrusted with property, or with any dominion over property in his capacity of a public servant or in the way of his business as a banker, merchant, factor, broker, attorney or agent, commits criminal breach of trust in respect of that property, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+"bns_code": "BNS 316(5)",
+"bns_title": "Criminal breach of trust by public servant, or by banker, merchant or agent",
+"bns_description": "Whoever, being in any manner entrusted with property, or with any dominion over property in his capacity of a public servant or in the way of his business as a banker, merchant, factor, broker, attorney or agent, commits criminal breach of trust in respect of that property, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+},
+"411": {
+"ipc_code": "411",
+"ipc_title": "Dishonestly receiving stolen property",
+"ipc_description": "Whoever dishonestly receives or retains, or assists in the retention of, stolen property, knowing or having reason to believe the same to be stolen property, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+"bns_code": "BNS 317(2)",
+"bns_title": "Stolen property",
+"bns_description": "Whoever dishonestly receives or retains, or assists in the retention of, stolen property, knowing or having reason to believe the same to be stolen property, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+},
+"415": {
+"ipc_code": "415",
+"ipc_title": "Cheating",
+"ipc_description": "Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to 'cheat'. Explanation.—A dishonest concealment of facts is a deception within the meaning of this section.",
+"bns_code": "BNS 318",
+"bns_title": "Cheating",
+"bns_description": "Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to 'cheat'."
+},
+"417": {
+"ipc_code": "417",
+"ipc_title": "Punishment for cheating",
+"ipc_description": "Whoever cheats shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+"bns_code": "BNS 318(2)",
+"bns_title": "Punishment for cheating",
+"bns_description": "Whoever cheats shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both."
+},
+"419": {
+"ipc_code": "419",
+"ipc_title": "Punishment for cheating by personation",
+"ipc_description": "Whoever cheats by personation shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+"bns_code": "BNS 319(2)",
+"bns_title": "Cheating by personation",
+"bns_description": "Whoever cheats by personation shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+},
+"420": {
+"ipc_code": "420",
+"ipc_title": "Cheating and dishonestly inducing delivery of property",
+"ipc_description": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+"bns_code": "BNS 318(4)",
+"bns_title": "Cheating and dishonestly inducing delivery of property",
+"bns_description": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+},
+"427": {
+"ipc_code": "427",
+"ipc_title": "Mischief causing damage to the amount of fifty rupees",
+"ipc_description": "Whoever commits mischief and thereby causes loss or damage to the amount of fifty rupees or upwards, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+"bns_code": "BNS 324(4)",
+"bns_title": "Mischief causing damage to the amount of fifty rupees",
+"bns_description": "Whoever commits mischief and thereby causes loss or damage to the amount of fifty rupees or upwards, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+},
+"436": {
+"ipc_code": "436",
+"ipc_title": "Mischief by fire or explosive substance with intent to destroy house, etc.",
+"ipc_description": "Whoever commits mischief by fire or any explosive substance, intending to cause, or knowing it to be likely that he will thereby cause, the destruction of any building which is ordinarily inhabited by human beings, or any building which is used for the custody of property, shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+"bns_code": "BNS 326(g)",
+"bns_title": "Mischief by injury, inundation, fire or explosive substance, etc.",
+"bns_description": "Whoever commits mischief by fire or any explosive substance, intending to cause, or knowing it to be likely that he will thereby cause, the destruction of any building which is ordinarily inhabited by human beings, or any building which is used for the custody of property, shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+},
+"437": {
+"ipc_code": "437",
+"ipc_title": "Mischief with intent to destroy or make unsafe a decked vessel or one of twenty tons burden",
+"ipc_description": "Whoever commits mischief to any decked vessel or any vessel of a burden of twenty tons or upwards, intending to destroy or render unsafe, or knowing it to be likely that he will thereby destroy or render unsafe, that vessel, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+"bns_code": "BNS 327(1)",
+"bns_title": "Mischief with intent to destroy or make unsafe a rail, aircraft, decked vessel or one of twenty tons burden",
+"bns_description": "Whoever commits mischief to any rail, aircraft, vessel or vehicle, intending to destroy or render unsafe, or knowing it to be likely that he will thereby destroy or render unsafe, that rail, aircraft, vessel or vehicle, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+},
+"438": {
+"ipc_code": "438",
+"ipc_title": "Punishment for the mischief described in section 437 committed by fire or explosive substance",
+"ipc_description": "Whoever commits, or attempts to commit, by fire or any explosive substance, such mischief as is described in the last preceding section, shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+"bns_code": "BNS 327(2)",
+"bns_title": "Punishment for the mischief described in section 327 committed by fire or explosive substance",
+"bns_description": "Whoever commits, or attempts to commit, by fire or any explosive substance, such mischief as is described in section 327, shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+},
+"447": {
+"ipc_code": "447",
+"ipc_title": "Criminal trespass",
+"ipc_description": "Whoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person in possession of such property, or having lawfully entered into or upon such property, unlawfully remains there with intent thereby to intimidate, insult or annoy any such person, or with intent to commit an offence, is said to commit 'criminal trespass'.",
+"bns_code": "BNS 329(3)",
+"bns_title": "Criminal trespass",
+"bns_description": "Whoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person in possession of such property, or having lawfully entered into or upon such property, unlawfully remains there with intent thereby to intimidate, insult or annoy any such person, or with intent to commit an offence, is said to commit 'criminal trespass'."
+},
+"448": {
+"ipc_code": "448",
+"ipc_title": "Punishment for house-trespass",
+"ipc_description": "Whoever commits house-trespass shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to three thousand rupees, or with both.",
+"bns_code": "BNS 331",
+"bns_title": "Punishment for house-trespass or house breaking",
+"bns_description": "Whoever commits house-trespass shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both."
+},
+"450": {
+"ipc_code": "450",
+"ipc_title": "House-trespass in order to commit offence punishable with imprisonment for life",
+"ipc_description": "Whoever commits house-trespass in order to the committing of any offence punishable with imprisonment for life, shall be punished with imprisonment for life, or rigorous imprisonment for a term not exceeding ten years, and shall also be liable to fine.",
+"bns_code": "BNS 332(b)",
+"bns_title": "House-trespass in order to commit offence",
+"bns_description": "Whoever commits house-trespass in order to the committing of any offence punishable with imprisonment for life, shall be punished with imprisonment for life, or rigorous imprisonment for a term not exceeding ten years, and shall also be liable to fine."
+},
+"452": {
+"ipc_code": "452",
+"ipc_title": "House-trespass after preparation for hurt, assault or wrongful restraint",
+"ipc_description": "Whoever commits house-trespass, having made preparation for causing hurt to any person, or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt or assault or of wrongful restraint, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine.",
+"bns_code": "BNS 333",
+"bns_title": "House-trespass after preparation for hurt, assault or wrongful restraint",
+"bns_description": "Whoever commits house-trespass, having made preparation for causing hurt to any person, or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt or assault or of wrongful restraint, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine."
+},
+"457": {
+"ipc_code": "457",
+"ipc_title": "Lurking house-trespass or house-breaking by night in order to commit offence punishable with imprisonment",
+"ipc_description": "Whoever commits lurking house-trespass by night, or house-breaking by night, in order to the committing of any offence punishable with imprisonment, shall be punished with imprisonment of either description for a term which may extend to fourteen years, and shall also be liable to fine.",
+"bns_code": "BNS 331(2,4)",
+"bns_title": "Punishment for house-trespass or housebreaking",
+"bns_description": "Whoever commits lurking house-trespass by night, or house-breaking by night, in order to the committing of any offence punishable with imprisonment, shall be punished with imprisonment of either description for a term which may extend to fourteen years, and shall also be liable to fine."
+},
+"465": {
+"ipc_code": "465",
+"ipc_title": "Punishment for forgery",
+"ipc_description": "Whoever commits forgery shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+"bns_code": "BNS 336(2)",
+"bns_title": "Punishment for forgery",
+"bns_description": "Whoever commits forgery shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+},
+"467": {
+"ipc_code": "467",
+"ipc_title": "Forgery of valuable security, will, etc.",
+"ipc_description": "Whoever forges a document which purports to be a valuable security or a will, or an authority to adopt a son, or which purports to give authority to any person to make or transfer any valuable security, or to receive the principal, interest or dividends thereon, or to receive or deliver any money, movable property, or valuable security, or any document purporting to be an acquittance or receipt acknowledging the payment of money, or an acquittance or receipt for the delivery of any movable property or valuable security, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+"bns_code": "BNS 338",
+"bns_title": "Forgery of valuable security, will, etc.",
+"bns_description": "Whoever forges a document which purports to be a valuable security or a will, or an authority to adopt a son, or which purports to give authority to any person to make or transfer any valuable security, or to receive the principal, interest or dividends thereon, or to receive or deliver any money, movable property, or valuable security, or any document purporting to be an acquittance or receipt acknowledging the payment of money, or an acquittance or receipt for the delivery of any movable property or valuable security, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+},
+"468": {
+"ipc_code": "468",
+"ipc_title": "Forgery for purpose of cheating",
+"ipc_description": "Whoever commits forgery, intending that the document or electronic record forged shall be used for the purpose of cheating, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+"bns_code": "BNS 336(3)",
+"bns_title": "Forgery for purpose of cheating",
+"bns_description": "Whoever commits forgery, intending that the document or electronic record forged shall be used for the purpose of cheating, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+},
+"471": {
+"ipc_code": "471",
+"ipc_title": "Using as genuine a forged document or electronic record",
+"ipc_description": "Whoever fraudulently or dishonestly uses as genuine any document or electronic record which he knows or has reason to believe to be a forged document or electronic record, shall be punished in the same manner as if he had forged such document or electronic record.",
+"bns_code": "BNS 340(2)",
+"bns_title": "Forged document or electronic record and using it as genuine",
+"bns_description": "Whoever fraudulently or dishonestly uses as genuine any document or electronic record which he knows or has reason to believe to be a forged document or electronic record, shall be punished in the same manner as if he had forged such document or electronic record."
+},
+"482": {
+"ipc_code": "482",
+"ipc_title": "Punishment for using a false property mark",
+"ipc_description": "Whoever marks any movable property or goods or any case, package, covering or wrapper with any mark thereon in a manner reasonably calculated to cause it to be believed that the property or goods so marked belong to, or are the manufacture of, or merchandise of, a person to whom, as a trader, such mark does not belong, and such act is done with intent to defraud, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+"bns_code": "BNS 345(3)",
+"bns_title": "Property mark",
+"bns_description": "Whoever marks any movable property or goods or any case, package, covering or wrapper with any mark thereon in a manner reasonably calculated to cause it to be believed that the property or goods so marked belong to, or are the manufacture of, or merchandise of, a person to whom, as a trader, such mark does not belong, and such act is done with intent to defraud, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both."
+},
+"494": {
+"ipc_code": "494",
+"ipc_title": "Marrying again during lifetime of husband or wife",
+"ipc_description": "Whoever, having a husband or wife living, marries in any case in which such marriage is void by reason of its taking place during the life of such husband or wife, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. Exception.—This section does not extend to any person whose marriage with such husband or wife has been declared void by a Court of competent jurisdiction, nor to any person who contracts a marriage during the life of a former husband or wife, if such husband or wife, at the time of the subsequent marriage, shall have been continually absent from such person for the space of seven years, and shall not have been heard of by such person as being alive within that time provided the person contracting such subsequent marriage shall, before such marriage takes place, inform the person with whom such marriage is contracted of the real state of facts so far as the same are within his or her knowledge.",
+"bns_code": "BNS 84",
+"bns_title": "Enticing or taking away or detaining with criminal intent a married woman",
+"bns_description": "Whoever takes or entices away or detains with intent to marry any woman who is and whom he knows or has reason to believe to be the wife of any other man, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+},
+"498": {
+"ipc_code": "498",
+"ipc_title": "Enticing or taking away or detaining with criminal intent a married woman",
+"ipc_description": "Whoever takes or entices away any woman who is and whom he knows or has reason to believe to be the wife of any other man, from that man, or from any person having the care of her on behalf of that man, with intent that she may have illicit intercourse with any person, or conceals or detains with that intent any such woman, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+"bns_code": "BNS 85",
+"bns_title": "Husband or relative of husband of a woman subjecting her to cruelty",
+"bns_description": "Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine. Explanation.—For the purpose of this section, 'cruelty' means— (a) any wilful conduct which is of such a nature as is likely to drive the woman to commit suicide or to cause grave injury or danger to life, limb or health (whether mental or physical) of the woman; or (b) harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security or is on account of failure by her or any person related to her to meet such demand."
+},
+"498A": {
+"ipc_code": "498A",
+"ipc_title": "Husband or relative of husband of a woman subjecting her to cruelty",
+"ipc_description": "Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine. Explanation.—For the purpose of this section, 'cruelty' means— (a) any wilful conduct which is of such a nature as is likely to drive the woman to commit suicide or to cause grave injury or danger to life, limb or health (whether mental or physical) of the woman; or (b) harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security or is on account of failure by her or any person related to her to meet such demand.",
+"bns_code": "BNS 85",
+"bns_title": "Husband or relative of husband of a woman subjecting her to cruelty",
+"bns_description": "Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine."
+},
+"5": {
+"ipc_code": "5",
+"ipc_title": "Certain laws not to be affected by this Act",
+"ipc_description": "Nothing in this Act shall affect the provisions of any Act for punishing mutiny and desertion of officers, soldiers, sailors or airmen in the service of the Government of India or shall affect any provision of any Act in force at the time when the Act came into force.",
+"bns_code": "BNS 1(6)",
+"bns_title": "Short title, commencement and application",
+"bns_description": "Nothing in this Sanhita shall affect the provisions of any Act for punishing mutiny and desertion of officers, soldiers, sailors or airmen in the service of the Government of India or shall affect any provision of any Act in force at the time when the Sanhita came into force."
+},
+"500": {
+"ipc_code": "500",
+"ipc_title": "Punishment for defamation",
+"ipc_description": "Whoever defames another shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+"bns_code": "BNS 356(2)",
+"bns_title": "Punishment for defamation",
+"bns_description": "Whoever defames another shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both."
+},
+"504": {
+"ipc_code": "504",
+"ipc_title": "Intentional insult with intent to provoke breach of the peace",
+"ipc_description": "Whoever intentionally insults, and thereby gives provocation to any person, intending or knowing it to be likely that such provocation will cause him to break the public peace, or to commit any other offence, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+"bns_code": "BNS 352",
+"bns_title": "Intentional insult with intent to provoke breach of the peace",
+"bns_description": "Whoever intentionally insults, and thereby gives provocation to any person, intending or knowing it to be likely that such provocation will cause him to break the public peace, or to commit any other offence, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+},
+"506": {
+"ipc_code": "506",
+"ipc_title": "Punishment for criminal intimidation",
+"ipc_description": "Whoever commits the offence of criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both, and if the threat be to cause death or grievous hurt, or to cause the destruction of any property by fire, or to cause an offence punishable with death or imprisonment for life, or with imprisonment for a term which may extend to seven years, or to impute unchastity to a woman, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+"bns_code": "BNS 351(2) & (3)",
+"bns_title": "Criminal intimidation",
+"bns_description": "Whoever threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause him to do any act which he is not legally bound to do, or to omit to do any act which he is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation. Punishment: imprisonment up to two years, or fine, or both; if threat to cause death or grievous hurt, up to seven years, or fine, or both."
+},
+"509": {
+"ipc_code": "509",
+"ipc_title": "Word, gesture or act intended to insult the modesty of a woman",
+"ipc_description": "Whoever, intending to insult the modesty of any woman, utters any word, makes any sound or gesture, or exhibits any object, intending that such word or sound shall be heard, or that such gesture or object shall be seen, by such woman, or intrudes upon the privacy of such woman, shall be punished with simple imprisonment for a term which may extend to three years, and also with fine.",
+"bns_code": "BNS 79",
+"bns_title": "Word, gesture or act intended to insult the modesty of a woman",
+"bns_description": "Whoever, intending to insult the modesty of any woman, utters any word, makes any sound or gesture, or exhibits any object, intending that such word or sound shall be heard, or that such gesture or object shall be seen, by such woman, or intrudes upon the privacy of such woman, shall be punished with simple imprisonment for a term which may extend to three years, and also with fine."
+},
+"511": {
+"ipc_code": "511",
+"ipc_title": "Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment",
+"ipc_description": "Whoever attempts to commit an offence punishable by this Code with imprisonment for life or imprisonment, or to cause such an offence to be committed, and in such attempt does any act towards the commission of the offence, shall, where no express provision is made by this Code for the punishment of such attempt, be punished with imprisonment of any description provided for the offence, for a term which may extend to one-half of the imprisonment for life or, as the case may be, one-half of the longest term of imprisonment provided for that offence, or with such fine as is provided for the offence, or with both.",
+"bns_code": "BNS 62",
+"bns_title": "Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment",
+"bns_description": "Whoever attempts to commit an offence punishable by this Sanhita with imprisonment for life or imprisonment, or to cause such an offence to be committed, and in such attempt does any act towards the commission of the offence, shall, where no express provision is made by this Sanhita for the punishment of such attempt, be punished with imprisonment of any description provided for the offence, for a term which may extend to one-half of the imprisonment for life or, as the case may be, one-half of the longest term of imprisonment provided for that offence, or with such fine as is provided for the offence, or with both."
+}
+}
